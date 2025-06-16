@@ -81,5 +81,6 @@ def calculator():
 
         print(f"\n✅ Result: {result}")
 
-# Run the calculator
-calculator()
+if __name__ == "__main__":
+    calculator()
+
