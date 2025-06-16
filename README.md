@@ -54,8 +54,8 @@ A beginner-friendly calculator app built in **Python**, available in both **comm
 ### 1. 📟 CLI Calculator
 
 ```bash
-git clone https://github.com/yourusername/cli-calculator.git
-cd cli-calculator
+git clone [https://github.com/Gautam-Yedla/Calculator_CLI_App---Python.git]
+cd Calculator_CLI_App---Python
 python calculator.py
 ```
 
