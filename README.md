@@ -1,7 +1,7 @@
+![Python CI](https://github.com/Gautam-Yedla/Calculator_CLI_App---Python/actions/workflows/python-ci.yml/badge.svg)
 
 # 🧮 Python Calculator (CLI + GUI)
 
-![Python CI](https://github.com/Gautam-Yedla/Calculator_CLI_App---Python/actions/workflows/python-ci.yml/badge.svg)
 
 A beginner-friendly calculator app built in **Python**, available in both **command-line** and **GUI (PyQt5)** versions. Supports all essential operations, lets you perform chained calculations, and logs history to a file.
 
